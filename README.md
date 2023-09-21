@@ -29,7 +29,7 @@ Before running the application, ensure you have the following software installed
 Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/infinite-scroll-app.git
+   git clone https://github.com/pradipchavda25/infinite-scroll-app.git
    ```
 
 #### Navigate to the project directory:
