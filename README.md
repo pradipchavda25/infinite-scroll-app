@@ -26,7 +26,7 @@ Before running the application, ensure you have the following software installed
 
 ### Installation
 
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
 
    ```
    git clone https://github.com/your-username/infinite-scroll-app.git
@@ -38,17 +38,13 @@ Before running the application, ensure you have the following software installed
 
 #### Install the required dependencies:
 
-    ```
     npm install
-    ```
 
 ## Running the Application
 
 #### Start the development server:
 
-    ```
     npm start
-    ```
 
 ## Features
 
